@@ -7,3 +7,8 @@ for (let item of arr) {
     setTimeout(() => console.log(item), item)
 }
 ```
+
+CMake build:
+```bash
+cmake --build . --target foolsort --config Release
+```
