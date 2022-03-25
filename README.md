@@ -12,3 +12,5 @@ CMake build:
 ```bash
 cmake --build . --target foolsort --config Release
 ```
+
+> Java version: https://github.com/kossoy/foolsort-java
